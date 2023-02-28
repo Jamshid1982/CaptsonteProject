@@ -1,0 +1,115 @@
+2023-02-14 16:18:13,659 - logger_File -INFO - User is on retail website
+2023-02-14 16:18:13,971 - logger_File -INFO - User searched for Pokemon item
+2023-02-14 16:45:49,060 - logger_File -INFO - User is on retail website
+2023-02-14 16:45:49,349 - logger_File -INFO - User searched for Pokemon item
+2023-02-14 17:06:56,774 - logger_File -INFO - User is on retail website
+2023-02-14 17:06:57,032 - logger_File -INFO - User searched for Pokemon item
+2023-02-15 09:59:01,558 - logger_File -INFO - User is on retail website
+2023-02-15 09:59:01,882 - logger_File -INFO - User searched for Pokemon item
+2023-02-15 16:16:49,052 - logger_File -INFO - User is on retail website
+2023-02-15 16:16:49,198 - logger_File -INFO - user clicked on Sign In Option
+2023-02-15 16:16:49,469 - logger_File -INFO - user entered email and password
+2023-02-15 16:16:49,564 - logger_File -INFO - user clicked on log in button
+2023-02-15 16:18:20,022 - logger_File -INFO - User is on retail website
+2023-02-15 16:18:20,228 - logger_File -INFO - user clicked on Sign In Option
+2023-02-15 16:18:20,513 - logger_File -INFO - user entered email and password
+2023-02-15 16:18:20,616 - logger_File -INFO - user clicked on log in button
+2023-02-15 16:18:20,898 - logger_File -INFO - user is logged in into Account
+2023-02-15 16:20:48,900 - logger_File -INFO - User is on retail website
+2023-02-15 16:20:49,136 - logger_File -INFO - user clicked on Sign In Option
+2023-02-15 16:20:49,478 - logger_File -INFO - user entered email and password
+2023-02-15 16:20:49,594 - logger_File -INFO - user clicked on log in button
+2023-02-15 16:20:49,826 - logger_File -INFO - user is logged in into Account
+2023-02-15 16:25:27,469 - logger_File -INFO - User is on retail website
+2023-02-15 16:25:27,689 - logger_File -INFO - user clicked on Sign In Option
+2023-02-15 16:25:27,954 - logger_File -INFO - user entered email and password
+2023-02-15 16:25:28,052 - logger_File -INFO - user clicked on log in button
+2023-02-15 16:25:28,271 - logger_File -INFO - user is logged in into Account
+2023-02-15 16:29:16,147 - logger_File -INFO - User is on retail website
+2023-02-15 16:29:16,313 - logger_File -INFO - user clicked on Sign In Option
+2023-02-15 16:29:16,634 - logger_File -INFO - user entered email and password
+2023-02-15 16:29:16,743 - logger_File -INFO - user clicked on log in button
+2023-02-15 16:29:16,973 - logger_File -INFO - user is logged in into Account
+2023-02-15 16:36:27,468 - logger_File -INFO - User is on retail website
+2023-02-15 16:36:27,631 - logger_File -INFO - user clicked on Sign In Option
+2023-02-15 16:36:27,902 - logger_File -INFO - user entered email and password
+2023-02-15 16:36:28,002 - logger_File -INFO - user clicked on log in button
+2023-02-15 16:36:28,226 - logger_File -INFO - user is logged in into Account
+2023-02-15 16:42:38,822 - logger_File -INFO - User is on retail website
+2023-02-15 16:42:38,970 - logger_File -INFO - user clicked on Sign In Option
+2023-02-15 16:42:39,277 - logger_File -INFO - user entered email and password
+2023-02-15 16:42:39,384 - logger_File -INFO - user clicked on log in button
+2023-02-15 16:42:39,597 - logger_File -INFO - user is logged in into Account
+2023-02-15 16:46:30,892 - logger_File -INFO - User is on retail website
+2023-02-15 16:46:31,029 - logger_File -INFO - user clicked on Sign In Option
+2023-02-15 16:46:31,299 - logger_File -INFO - user entered email and password
+2023-02-15 16:46:31,397 - logger_File -INFO - user clicked on log in button
+2023-02-15 16:46:31,618 - logger_File -INFO - user is logged in into Account
+2023-02-15 17:13:55,807 - logger_File -INFO - User is on retail website
+2023-02-15 17:13:55,978 - logger_File -INFO - user clicked on Sign In Option
+2023-02-15 17:13:56,276 - logger_File -INFO - user entered email and password
+2023-02-15 17:13:56,378 - logger_File -INFO - user clicked on log in button
+2023-02-15 17:13:56,600 - logger_File -INFO - user is logged in into Account
+2023-02-15 17:13:56,724 - logger_File -INFO - user is logged out
+2023-02-21 19:38:27,834 - logger_File -INFO - User is on retail website
+2023-02-21 19:38:28,039 - logger_File -INFO - user clicked on Sign In Option
+2023-02-21 19:38:28,299 - logger_File -INFO - user entered email and password
+2023-02-21 19:38:28,393 - logger_File -INFO - user clicked on log in button
+2023-02-21 19:38:28,612 - logger_File -INFO - user is logged in into Account
+2023-02-21 19:38:28,740 - logger_File -INFO - user is logged out
+2023-02-21 19:46:42,948 - logger_File -INFO - User is on retail website
+2023-02-21 19:46:43,092 - logger_File -INFO - user clicked on Sign In Option
+2023-02-21 19:46:43,372 - logger_File -INFO - user entered email and password
+2023-02-21 19:46:43,467 - logger_File -INFO - user clicked on log in button
+2023-02-21 19:46:43,679 - logger_File -INFO - user is logged in into Account
+2023-02-21 19:46:43,799 - logger_File -INFO - user is logged out
+2023-02-21 19:47:34,051 - logger_File -INFO - User is on retail website
+2023-02-21 19:47:34,295 - logger_File -INFO - User searched for Pokemon item
+2023-02-21 19:56:55,263 - logger_File -INFO - User is on retail website
+2023-02-21 19:56:55,571 - logger_File -INFO - User searched for Pokemon item
+2023-02-21 19:57:26,403 - logger_File -INFO - User is on retail website
+2023-02-21 19:57:26,599 - logger_File -INFO - user clicked on Sign In Option
+2023-02-21 19:57:26,859 - logger_File -INFO - user entered email and password
+2023-02-21 19:57:26,952 - logger_File -INFO - user clicked on log in button
+2023-02-21 19:57:27,162 - logger_File -INFO - user is logged in into Account
+2023-02-21 19:57:27,278 - logger_File -INFO - user is logged out
+2023-02-22 12:31:19,969 - logger_File -INFO - User is on retail website
+2023-02-22 12:31:20,104 - logger_File -INFO - user clicked on Sign In Option
+2023-02-22 12:31:20,373 - logger_File -INFO - user entered email and password
+2023-02-22 12:31:20,460 - logger_File -INFO - user clicked on log in button
+2023-02-22 12:31:20,679 - logger_File -INFO - user is logged in into Account
+2023-02-22 12:31:20,797 - logger_File -INFO - user is logged out
+2023-02-22 12:33:09,006 - logger_File -INFO - User is on retail website
+2023-02-22 12:33:09,320 - logger_File -INFO - User searched for Pokemon item
+2023-02-22 16:34:39,049 - logger_File -INFO - User is on retail website
+2023-02-22 16:34:39,301 - logger_File -INFO - User searched for Pokemon item
+2023-02-22 16:35:10,366 - logger_File -INFO - User is on retail website
+2023-02-22 16:35:10,625 - logger_File -INFO - user clicked on Sign In Option
+2023-02-22 16:35:10,928 - logger_File -INFO - user entered email and password
+2023-02-22 16:35:11,029 - logger_File -INFO - user clicked on log in button
+2023-02-22 16:35:11,256 - logger_File -INFO - user is logged in into Account
+2023-02-22 16:35:11,404 - logger_File -INFO - user is logged out
+2023-02-22 16:36:29,551 - logger_File -INFO - User is on retail website
+2023-02-22 16:36:29,848 - logger_File -INFO - User searched for Pokemon item
+2023-02-22 16:51:11,150 - logger_File -INFO - User is on retail website
+2023-02-22 16:51:11,427 - logger_File -INFO - User searched for Pokemon item
+2023-02-23 13:44:34,411 - logger_File -INFO - User is on retail website
+2023-02-23 13:44:34,562 - logger_File -INFO - user clicked on Sign In Option
+2023-02-23 13:44:34,839 - logger_File -INFO - user entered email and password
+2023-02-23 13:44:34,934 - logger_File -INFO - user clicked on log in button
+2023-02-23 13:44:35,151 - logger_File -INFO - user is logged in into Account
+2023-02-23 13:44:35,267 - logger_File -INFO - user is logged out
+2023-02-23 13:47:59,175 - logger_File -INFO - User is on retail website
+2023-02-23 13:47:59,363 - logger_File -INFO - user clicked on Sign In Option
+2023-02-23 13:47:59,629 - logger_File -INFO - user entered email and password
+2023-02-23 13:47:59,736 - logger_File -INFO - user clicked on log in button
+2023-02-23 13:47:59,945 - logger_File -INFO - user is logged in into Account
+2023-02-23 13:48:00,071 - logger_File -INFO - user is logged out
+2023-02-23 13:48:01,823 - logger_File -INFO - user clicked on Sign In Option
+2023-02-28 16:11:20,347 - logger_File -INFO - User is on retail website
+2023-02-28 16:11:20,495 - logger_File -INFO - user clicked on Sign In Option
+2023-02-28 16:11:20,754 - logger_File -INFO - user entered email and password
+2023-02-28 16:11:20,846 - logger_File -INFO - user clicked on log in button
+2023-02-28 16:11:21,115 - logger_File -INFO - user is logged in into Account
+2023-02-28 16:11:21,239 - logger_File -INFO - user is logged out
+2023-02-28 16:11:23,010 - logger_File -INFO - user clicked on Sign In Option
