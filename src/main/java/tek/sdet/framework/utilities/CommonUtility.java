@@ -83,6 +83,14 @@ public class CommonUtility extends BaseSetup {
         JavascriptExecutor executor = ((JavascriptExecutor) getDriver());
         executor.executeScript("arguments[0].value='" + value + "';", ele);
     }
+    
+    public void clearText(WebElement element) {
+        element.clear();
+    }
+    public void clearTextUsingJSExecutor(WebElement element) {
+        JavascriptExecutor js = (JavascriptExecutor) getDriver();
+        
+    }
 
     public void clearTextUsingSendKeys(WebElement toClear) {
         toClear.sendKeys(Keys.CONTROL + "a");
@@ -91,7 +99,8 @@ public class CommonUtility extends BaseSetup {
    public void selectByIndex(WebElement ele, int index) {
         Select select = new Select(ele);
         select.selectByIndex(index);
-    }   public void selectByValue(WebElement ele, String value) {       Select select = new Select(ele);
+    }   public void selectByValue(WebElement ele, String value) {       
+    	Select select = new Select(ele);
         select.selectByValue(value);
     }
 

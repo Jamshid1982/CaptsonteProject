@@ -1,21 +1,21 @@
-Feature: Retail signIn feature
+@CapstoneProject @SignInPage
+Feature: Sign In Feature
 
-  @smokeTest @Regresion @FunctionalTestCases
-  Scenario: Veify user can sign in into Retail Application
+  Background: 
     Given User is on retail website
-    When User clicks on Sign in option
-    And User enter email 'jamshidkhashi82@gmail.com' and password 'Khashi1982$'
-    And User clicks on login button
-    Then User should be logged in into Account
-    And User clicks on Logout option
+    When User click on Sign in option
 
-	@dryRun @smokeTest
+  @LogIn
+  Scenario: Verify user can sign in into Retail Application
+    And User enter email 'jamshidkhashi82@gmail.com' and password 'AliZahra4321$'
+    And User click on login button
+    Then User should be logged in into Account
+
+  @SignUp
   Scenario: Verify user can create an account into Retail Website
-    Given User is on Retail website
-    When User clicks on Sign in option
-    And User clicks on Create New Account button
+    And User click on Create New Account button
     And User fill the signUp information with below data
-      | name    | email                     | password    | confirmPassword |
-      | jamshid | jamshidkhashi82@gmail.com | Khashi1982$ | Khashi1982$     |
-    And User clicks on SignUp button
+      | name | email | password  | confirmPassword |
+      | name | email | Tek@12345 | Tek@12345       |
+    And User click on SignUp button
     Then User should be logged into account page
