@@ -1,3 +1,4 @@
+@CapstoneProject @OrderPage
 Feature: Retail Order Page
 
   @CancelOrder

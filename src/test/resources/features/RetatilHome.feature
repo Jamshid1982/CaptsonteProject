@@ -1,3 +1,4 @@
+@CapstoneProject @HomePage
 Feature: Retail Home Page
 
   @DepartmentSidebar
